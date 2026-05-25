@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 import pandas as pd
 
 st.title("Student Marks Analyzer with Visualization")
